@@ -4,8 +4,8 @@ Enlaces de referencias para actividades del curso
 
 # Actividad 2.1
 
-https://docs.docker.com/get-started/overview/
-https://aws.amazon.com/es/docker/
+- https://docs.docker.com/get-started/overview/
+- https://aws.amazon.com/es/docker/
 https://azure.microsoft.com/es-mx/resources/cloud-computing-dictionary/what-is-a-container/
 https://www.redhat.com/es/topics/containers
 https://www.hpe.com/es/es/what-is/containers.html
