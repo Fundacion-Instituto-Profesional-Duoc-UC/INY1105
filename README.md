@@ -1,6 +1,6 @@
 # INY1105
 
-Enlaces de referencias para actividades
+Enlaces de referencias para actividades del curso
 
 # Actividad 2.1
 
