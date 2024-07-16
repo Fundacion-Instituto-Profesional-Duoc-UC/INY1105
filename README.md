@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# NOMBRE DE ACTIVIDAD
+<!-- # NOMBRE DE ACTIVIDAD
 
 ## ANTECEDENTES GENERALES
 
@@ -14,13 +14,13 @@ Esta guía tiene como objetivo ...
 
 ## REQUERIMIENTOS PARA ESTA ACTIVIDAD
 
-Para el desarrollo de esta actividad se requiere ...
+Para el desarrollo de esta actividad se requiere ... -->
 
-## DESARROLLO DE ACTIVIDAD
+# DESARROLLO DE ACTIVIDADES
 
 Enlaces de referencias para actividades del curso
 
-# Actividad 2.1
+### Actividad 2.1
 
 - https://docs.docker.com/get-started/overview/
 - https://aws.amazon.com/es/docker/
@@ -28,18 +28,18 @@ Enlaces de referencias para actividades del curso
 - https://www.redhat.com/es/topics/containers
 - https://www.hpe.com/es/es/what-is/containers.html
 
-# Actividad 2.2
+### Actividad 2.2
 
 - https://docs.docker.com/get-docker/
 
-# Actividad 2.3
+### Actividad 2.3
 
 - https://hub.docker.com/
 - https://docs.docker.com/build/
 - https://docs.docker.com/compose/
 - https://docs.docker.com/docker-hub/
 
-# Actividad 2.4
+### Actividad 2.4
 
 - https://docs.docker.com/storage/bind-mounts/#start-a-container-with-a-bind-mount
 
