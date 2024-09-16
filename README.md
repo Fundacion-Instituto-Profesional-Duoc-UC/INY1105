@@ -42,6 +42,7 @@ Enlaces de referencias para actividades del curso
 ### Actividad 2.4
 
 - https://docs.docker.com/storage/bind-mounts/#start-a-container-with-a-bind-mount
+- https://docs.docker.com/get-started/workshop/05_persisting_data/
 
 ## CONTRIBUCIONES
 
