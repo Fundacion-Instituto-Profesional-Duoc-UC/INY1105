@@ -38,11 +38,22 @@ Enlaces de referencias para actividades del curso
 - https://docs.docker.com/build/
 - https://docs.docker.com/compose/
 - https://docs.docker.com/docker-hub/
+- https://github.com/docker/getting-started-app/
 
 ### Actividad 2.4
 
+- https://docs.docker.com/engine/network/tutorials/host/
+- https://docs.docker.com/engine/network/tutorials/standalone/
+- https://hub.docker.com/_/alpine/
+- https://hub.docker.com/_/nginx/
+
+### Actividad 3.3
+
 - https://docs.docker.com/storage/bind-mounts/#start-a-container-with-a-bind-mount
+- https://github.com/v-teacher/getting-started-app
 - https://docs.docker.com/get-started/workshop/05_persisting_data/
+- https://github.com/v-teacher/docker-docs/blob/main/content/get-started/workshop/05_persisting_data.md
+- https://github.com/docker/docs/tree/main/content/get-started/workshop
 
 ## CONTRIBUCIONES
 
